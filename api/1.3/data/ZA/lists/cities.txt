@@ -1,0 +1,74 @@
+Alice
+Bellville
+Benoni
+Bethlehem
+Bloemfontein
+Boksburg
+Brakpan
+Butterworth
+Cape Town
+Carletonville
+Constantia
+Durban
+East London
+Emalahleni
+Empangeni
+George
+Germiston
+Giyani
+Graaff-Reinet
+Grahamstown
+Hopefield
+Jagersfontein
+Johannesburg
+Kimberley
+King William’s Town
+Klerksdorp
+Kroonstad
+Krugersdorp
+Kuruman
+Ladysmith
+Lebowakgomo
+Mahikeng
+Mmabatho
+Mthatha
+Musina
+Nelspruit
+Newcastle
+Odendaalsrus
+Oudtshoorn
+Paarl
+Parys
+Phalaborwa
+Phuthaditjhaba
+Pietermaritzburg
+Pinetown
+Polokwane
+Port Elizabeth
+Port Nolloth
+Potchefstroom
+Pretoria
+Queenstown
+Randburg
+Randfontein
+Roodepoort
+Rustenburg
+Sasolburg
+Secunda
+Seshego
+Sibasa
+Simon’s Town
+Soweto
+Springs
+Stellenbosch
+Swellendam
+Thabazimbi
+Uitenhage
+Ulundi
+Umlazi
+Vanderbijlpark
+Vereeniging
+Virginia
+Welkom
+Worcester
+Zwelitsha
