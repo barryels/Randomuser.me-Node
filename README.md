@@ -39,7 +39,7 @@ MongoDB
 
 3. Run `npm test` and verify all tests pass
 
-4. Start the server with `npm start`
+4. Start the server with `npm start` (You can run `PORT=3001 npm start` to use a different port than the default `3000`)
 
 ### What if I want to add a new nationality?
 Go ahead! We will gladly accept new regions if they follow the guidelines above.
